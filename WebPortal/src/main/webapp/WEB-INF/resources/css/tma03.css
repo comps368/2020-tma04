@@ -1,0 +1,8 @@
+.tmaFormErrTxt{
+    display: block;
+    position: relative;
+    margin-top: 10px;
+}
+.tmaFormErrInput{
+    border-color: #dc3545;
+}
